@@ -1,5 +1,5 @@
 # Resolução de problemas:
-Nesta área iremos listar os problemas mais comuns durante a impressão 3D em resina e suas soluções.
+Nesta área iremos listar os problemas mais comuns durante a impressão em resina e suas soluções.
 
 ## Soluções para problemas de impressão:
 
